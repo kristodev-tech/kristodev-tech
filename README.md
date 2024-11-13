@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tekken-7
-- 👀 I’m interested in creating software tools and desktop applications for business and personal use
+- 👀 I’m interested in creating custom software tools and desktop applications for business and personal use
 - 🌱 I’m currently learning more about web based applications with backend web server, using python with front end java synchronous and asynchronous
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
