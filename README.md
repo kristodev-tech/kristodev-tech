@@ -7,5 +7,7 @@ I started building software/hardware tools, apps along with AI research in 2022 
 
 I’m open to collaborating on useful, interesting ideas.
 
+You can see more of my work at: https://northstarsoftwareworks.com/
+
 📫 **Reach me:** [msepro.software@gmail.com](mailto:msepro.software@gmail.com)
 
